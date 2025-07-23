@@ -101,28 +101,3 @@ const johnAdapa = {
 <img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/JDBC-007396?style=flat&logo=java&logoColor=white"/>
-
----
-
-## 📈 GitHub Stats
-
-<p>
-  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdapaJohn&layout=compact&hide=css,html&theme=default" alt="Top Languages"/>
-  <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api?username=AdapaJohn&show_icons=true&theme=default" alt="GitHub Stats"/>
-</p>
-
----
-
-## 📜 Certifications & Training
-
-- **Java Full Stack Development Training, HMI Services**
-  - Mastered Spring Boot, Hibernate, MySQL backend development
-  - Built responsive UIs using JSP, HTML5, CSS3, Bootstrap
-  - Implemented REST APIs with MVC architecture
-  - Practiced Git version control and project deployment
-
----
-
-**These Readme stats are generated using [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)**
-
-<sub>Note: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.</sub>
