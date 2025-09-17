@@ -33,8 +33,8 @@ const johnAdapa = {
     code: ["Java", "SQL", "HTML5", "CSS3", "JavaScript"],
     askMeAbout: ["web dev", "backend dev", "DSA", "Java tech stack", "tech trends"],
     technologies: {
-        backend: ["Spring", "Hibernate", "JSP", "Servlets"],
-        frontend: ["HTML5", "CSS3", "Bootstrap"],
+        backend: ["Spring","SpringBoot", "Hibernate", "JSP", "Servlets"],
+        frontend: ["HTML5", "CSS3", "Bootstrap","Javascript","React"],
         databases: ["MySQL"],
         tools: ["Git", "JDBC", "Maven"],
         misc: ["MVC", "ORM", "REST APIs"]
@@ -51,35 +51,6 @@ const johnAdapa = {
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b>, so if you want to say <b>hi, I'll be happy to meet you!</b> 😊</em>
-
----
-
-## 🏆 Projects
-
-### FoodieMall – Food Delivery Web App  
-<sub><i>Java, JSP, MySQL, Servlet API, Bootstrap 5</i></sub>
-- Enhanced password security by 30% using character-shift encryption.
-- Built a normalized MySQL database (6+ tables) supporting 100+ concurrent orders with JDBC pooling.
-- Developed a dynamic JSP frontend with CSS3, enabling real-time cart updates and order tracking.
-- Implemented MVC architecture across 15+ servlets and DAO classes, improving maintainability by 40%.
-- Achieved 95% test coverage for all critical DAO operations.
-
-### Health Prediction Management System  
-<sub><i>Java, OOP Principles, Console I/O</i></sub>
-- Engineered a rule-based prediction engine with 85% accuracy.
-- Designed modular OOP architecture with 8+ specialized classes for improved code reusability.
-- Implemented doctor recommendation algorithm for matching patients to specialists.
-
----
-
-## 🎓 Education
-
-- **B.Tech in Computer Science**  
-  Sanketika Institute of Technology and Management, Visakhapatnam, India | 2022 – 2025 | CGPA: 8.0
-- **Diploma in Computer Science**  
-  Sanketika Polytechnic College, Visakhapatnam, India | 2019 – 2022 | CGPA: 8.7
-- **Matriculation**  
-  Zilla Parishad Techno High School, Srikakulam, India | 2018 – 2019 | CGPA: 9.3
 
 ---
 
